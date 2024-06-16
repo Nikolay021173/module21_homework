@@ -1,0 +1,12 @@
+body * {
+    font: 16px/32px Arial;
+  }
+ 
+  .mes-abou-absence-user {
+    text-transform: uppercase;
+    color: red;
+  }
+
+  .task-is-completed {
+    text-decoration: line-through;
+  }

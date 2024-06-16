@@ -1,0 +1,19 @@
+body * {
+    font: 16px/32px Arial;
+  }
+
+  .message {
+    text-transform: uppercase;
+    color: red;
+  }
+
+  .list-img {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    
+  }
+  .container-img {
+    display: block;
+    margin-top: 20px;
+  }
